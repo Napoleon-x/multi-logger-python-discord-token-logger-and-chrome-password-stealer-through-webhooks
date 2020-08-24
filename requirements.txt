@@ -1,0 +1,6 @@
+psutil
+platform
+subprocess
+uuid
+json
+socket
