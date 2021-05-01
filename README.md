@@ -5,7 +5,7 @@
 ## Future plans:
 - Better settings
 - Steam Stealer
-- Logging Browser History and Passwords
+- ~~Logging Browser History and Passwords~~
 - Record Video or Take Screenshot
 - Detailed Specs
 
@@ -18,7 +18,7 @@
 3. Compile it using pyinstaller
 4. Done
 
-## Showcase:
+## Showcase (old):
 ![Showcase](https://i.imgur.com/6BAJJ7e.png)
 
 `WARN: This one is for educational purposes only! I do not recommend using it on people!`
