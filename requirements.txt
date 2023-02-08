@@ -2,5 +2,5 @@ dhooks==1.1.4
 requests==2.25.1
 psutil==5.8.0
 browser_cookie3==0.12.0
-cryptography==3.4.7
+cryptography==39.0.1
 pycryptodome==3.10.1
